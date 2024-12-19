@@ -39,6 +39,7 @@
 
 이러한 구성을 통해 고등학생들에게 인공지능의 기본 개념부터 사회적 영향까지 폭넓게 소개할 수 있습니다. 실생활 예시와 미래 전망을 포함하여 학생들의 흥미를 유발하고, 인공지능 시대를 살아갈 준비를 할 수 있도록 도와줄 수 있습니다[1][3][5][10].
 
+```
 Citations:
 [1] https://www.youtube.com/watch?v=1RCNPjBEBXY
 [2] https://iaae.ai/edulist/?idx=9102894&bmode=view
@@ -50,3 +51,4 @@ Citations:
 [8] http://kocw-n.xcache.kinxcdn.com/data/document/2021/keris/kangsinok0712/14.pdf
 [9] https://www.sen.go.kr/user/bbs/BD_selectBbsList.do?q_bbsSn=1462
 [10] https://webzine-serii.re.kr/ai-sw-%ED%99%9C%EC%9A%A9-%EC%88%98%EC%97%85%EC%82%AC%EB%A1%80%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4sw-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5ai-%EA%B5%90%EC%9C%A1%EC%9D%98-%EB%82%B4/
+```
